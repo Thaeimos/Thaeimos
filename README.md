@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thaeimos
 - 👀 I’m interested in music, Linux and sports
-- 🌱 I’m currently learning ansible and Openstack
+- 🌱 I’m currently learning AWS, GCP and Linux Kernel
 - 💞️ I’m looking to collaborate on any project
 
 <!---
